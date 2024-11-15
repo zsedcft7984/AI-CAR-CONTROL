@@ -1,0 +1,5 @@
+venv/
+pyqt5-exam/
+keras_model.h5
+guiprojectpyqt.py
+labels.txt
