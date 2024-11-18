@@ -10,6 +10,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QPushButton, QHB
 from urllib.request import urlopen
 from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import QTimer, Qt
+from Ui import *
 
 # 전역 버퍼
 buffer = b""  # 전역 버퍼 초기화
