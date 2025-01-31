@@ -13,19 +13,18 @@
 
 ### 1. 필수 라이브러리 설치
 
-이 프로그램을 실행하려면 `PyQt5`, `opencv-python`, `numpy`가 필요합니다. 아래 명령어를 통해 설치할 수 있습니다:
+이 프로그램을 실행하려면 `PyQt5`, `opencv-python`, `numpy`가 필요합니다. 아래 명령어를 통해 설치할 수 있습니다.
 
-```bash
+
 pip install pyqt5 opencv-python numpy
-bash
+```
 
 ### 2. 프로그램 실행
 설치가 완료되면, 아래 명령어를 입력하여 프로그램을 실행할 수 있습니다.
 
 ```bash
 python app.py
-bash
-bash
+```
 
 ##코드 설명
 
