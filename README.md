@@ -15,7 +15,7 @@
 
 이 프로그램을 실행하려면 `PyQt5`, `opencv-python`, `numpy`가 필요합니다. 아래 명령어를 통해 설치할 수 있습니다.
 
-
+```bash
 pip install pyqt5 opencv-python numpy
 ```
 
@@ -26,7 +26,7 @@ pip install pyqt5 opencv-python numpy
 python app.py
 ```
 
-##코드 설명
+## 코드 설명
 
 ### 1. App 클래스
 App 클래스는 PyQt5의 QMainWindow를 상속받아 UI를 구성하고, 실시간 비디오 스트리밍을 처리하며, 로봇 차의 제어 기능을 구현합니다.
